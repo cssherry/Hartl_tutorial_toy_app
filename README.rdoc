@@ -1,4 +1,4 @@
 == Ruby on Tails Tutorial: Toy App
 This is the second application for the Ruby on Rails Tutorial by Michael Hartl.
 
-You can see the live deployment here[link:https://zhoux10-rails-tutorial-toy.herokuapp.com/] 
+You can see the live deployment {here}[https://zhoux10-rails-tutorial-toy.herokuapp.com/] 
